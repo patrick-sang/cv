@@ -1,1 +1,55 @@
-
+{
+  "fullname": "Alexandra Chen",
+  "job_title": "Senior Product Manager & Data Strategist",
+  "email": "alex.chen@example.com",
+  "phone": "+1 (555) 678-1234",
+  "location": "San Francisco, CA",
+  "linkedin": "linkedin.com/in/alexchen",
+  "summary": "Results-driven Product Manager with 8+ years of experience in SaaS, data analytics, and cross-functional leadership. Proven track record of launching data-driven products, increasing user engagement by 40%, and optimizing agile workflows. Strong background in A/B testing, roadmapping, and stakeholder alignment. Passionate about leveraging ML insights to drive business value.",
+  "experience": [
+    {
+      "position": "Senior Product Manager",
+      "company": "TechFlow Analytics",
+      "date_range": "Jan 2022 – Present",
+      "description": "- Led product strategy for AI-driven analytics platform, growing ARR by 55% in 18 months.\n- Collaborated with engineering & design to deliver 12 major features, improving NPS from 32 to 58.\n- Implemented data-informed roadmap using user research & funnel analysis; reduced churn by 22%."
+    },
+    {
+      "position": "Product Owner",
+      "company": "InsightBridge Solutions",
+      "date_range": "Jul 2018 – Dec 2021",
+      "description": "- Owned CRM product backlog & led 3 cross-functional squads, increasing delivery velocity by 30%.\n- Launched customer segmentation module adopted by 150+ enterprise clients.\n- Championed agile transformation, reduced time-to-market by 25% through continuous delivery."
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA, Technology Management",
+      "institution": "University of California, Berkeley",
+      "edu_date": "2016 – 2018",
+      "edu_details": "Concentration in Data Science & Product Innovation. GPA: 3.9/4.0"
+    },
+    {
+      "degree": "B.Sc. in Information Systems",
+      "institution": "University of Washington",
+      "edu_date": "2012 – 2016",
+      "edu_details": "Minor in Statistics. Graduated cum laude."
+    }
+  ],
+  "skills": [
+    "Product Strategy",
+    "Agile & Scrum",
+    "Data Analysis (SQL, Tableau)",
+    "A/B Testing",
+    "Roadmap Planning",
+    "Stakeholder Management",
+    "JIRA / Confluence",
+    "Python (pandas)"
+  ],
+  "certifications": [
+    {
+      "cert_item": "✅ Certified Scrum Product Owner (CSPO) – Scrum Alliance"
+    },
+    {
+      "cert_item": "✅ Pragmatic Marketing Certified (PMC-III)"
+    }
+  ]
+}
